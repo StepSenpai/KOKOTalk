@@ -63,7 +63,6 @@ public class Ventana extends JFrame {
                     "on the floor.<p><span><html>";
         };
     }
-
     private void loadPics() {
         labelPic.setIcon(new ImageIcon(Objects.requireNonNull(getClass().getResource(switch (situation) {
             default -> "/img/kokoStickerRegular.png";
