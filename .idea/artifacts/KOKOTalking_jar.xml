@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KOKOTalking:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KOKOTalking_jar</output-path>
+    <root id="archive" name="KOKOTalking.jar">
+      <element id="module-output" name="KOKOTalking" />
+    </root>
+  </artifact>
+</component>
